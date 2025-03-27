@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/main/banner.png" alt="Francisco Guzmán Banner"/>
 </p>
 
+
 # 👋 ¡Hola! Soy Francisco Guzmán
 
 Soy estudiante de ingeniería de sistemas en Colombia. Me apasiona la resolución de problemas, el desarrollo de proyectos con propósito y me encanta aprender haciendo. Disfruto trabajar con código que tenga un impacto real, desde simuladores en Java hasta análisis de datos con Python.  
