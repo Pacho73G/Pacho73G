@@ -1,6 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/main/banner.png" alt="Francisco Guzmán Banner"/>
+</p>
+
+
+
 # 👋 ¡Hola! Soy Francisco Guzmán
 
-Soy estudiante de ingeniería de sistemas, la resolución de problemas y el desarrollo de proyectos con propósito. Me gusta aprender haciendo y disfruto trabajar con código que tenga un impacto real, desde simuladores en Java hasta análisis de datos con Python.
+Soy estudiante de ingeniería de sistemas en Colombia. Me apasiona la resolución de problemas, el desarrollo de proyectos con propósito y me encanta aprender haciendo. Disfruto trabajar con código que tenga un impacto real, desde simuladores en Java hasta análisis de datos con Python.  
+Además, soy un gran aficionado al fútbol ⚽ 
 
 ---
 
@@ -9,7 +16,8 @@ Soy estudiante de ingeniería de sistemas, la resolución de problemas y el desa
 - 💡 Apasionado por la programación orientada a objetos
 - 📊 Me gusta explorar datos y crear visualizaciones útiles
 - 👨‍💻 Siempre estoy buscando mejorar mis habilidades técnicas
-- 🎓 Estudiante en la Pontificia Universidad Javeriana
+- 📚 Actualmente estudiante en la Pontificia Universidad Javeriana
+- 🏅 Tengo una insignia digital otorgada por **IBM** a través de [Credly](https://www.credly.com/badges/eb6c4d07-a0ef-472b-8af2-d1e2e97636fd/public_url)
 
 ---
 
@@ -40,7 +48,7 @@ Soy estudiante de ingeniería de sistemas, la resolución de problemas y el desa
 
 ## 📂 Proyectos destacados
 
-### 🐾 [Simulador de Centro de Adopción de Mascotas](https://github.com/Pacho73G/CentroAdopcionPOO)
+### 🐾 [Simulador de Centro de Adopción de Mascotas](https://github.com/Pacho73G/Simulador-de-Centro-de-Adopcion-de-Mascotas)
 Sistema completo en Java que simula la gestión de un centro de adopción con herencia, polimorfismo, persistencia y manejo de excepciones.
 
 ### 📊 [Análisis de Accidentes de Tránsito en Colombia (2012–2022)](https://github.com/Pacho73G/AccidentesDeTransito)
@@ -60,7 +68,7 @@ Exploración y visualización de datos reales usando Python, pandas y matplotlib
 
 ## 📫 ¡Conectemos!
 
-- 📧 franciscoguzmanv11@gmail.com   
+- 📧 franciscoguzmanv11@gmail.com  
 - 🐙 [GitHub](https://github.com/Pacho73G)
 
 ---
