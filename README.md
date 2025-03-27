@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/main/banner.png" alt="Francisco Guzmán Banner"/>
-</p>
-
-
 # 👋 ¡Hola! Soy Francisco Guzmán
 
 Soy estudiante de ingeniería de sistemas en Colombia. Me apasiona la resolución de problemas, el desarrollo de proyectos con propósito y me encanta aprender haciendo. Disfruto trabajar con código que tenga un impacto real, desde simuladores en Java hasta análisis de datos con Python.  
@@ -16,9 +11,14 @@ Además, soy un gran aficionado al fútbol ⚽
 - 📊 Me gusta explorar datos y crear visualizaciones útiles
 - 👨‍💻 Siempre estoy buscando mejorar mis habilidades técnicas
 - 📚 Actualmente estudiante en la Pontificia Universidad Javeriana
-- 🏅 Tengo una insignia digital otorgada por **IBM** a través de [Credly](https://www.credly.com/badges/eb6c4d07-a0ef-472b-8af2-d1e2e97636fd/public_url)
-
+  
 ---
+
+## 🏅 Insignias digitales
+
+Cuento con una insignia digital otorgada por IBM a través de la plataforma Credly.  
+🔗 [Ver en mi perfil de Credly](https://www.credly.com/users/francisco-guzman.827be69c)
+
 
 ## 🧠 Tecnologías que uso
 
@@ -58,10 +58,11 @@ Exploración y visualización de datos reales usando Python, pandas y matplotlib
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=aura&hide_border=false&border_radius=10" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=aura&hide_border=false&border_radius=10" alt="Top Languages"/>
 </p>
+
 
 ---
 
