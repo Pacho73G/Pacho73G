@@ -49,8 +49,6 @@ Cuento con una insignia digital otorgada por IBM a través de la plataforma Cred
 
 ### 🧊 [Sistema de Procesamiento de Mallas 3D en C++](https://github.com/Pacho73G/Sistema-de-Procesamiento-de-Mallas-3D-en-C-)
 Proyecto realizado en C++ para cargar, analizar y procesar mallas poligonales en 3D usando estructuras avanzadas como árboles KD y grafos.  
-Este fue uno de los proyectos más desafiantes que he desarrollado, ya que no solo implicó aplicar estructuras de datos complejas, sino hacerlo en un lenguaje como C++, donde el manejo de memoria, punteros y modularidad exige un nivel técnico más alto.  
-🧠 Aprendí muchísimo sobre geometría computacional, optimización y organización de código a gran escala.
 
 ### 🐾 [Simulador de Centro de Adopción de Mascotas](https://github.com/Pacho73G/Simulador-de-Centro-de-Adopcion-de-Mascotas)
 Sistema completo en Java que simula la gestión de un centro de adopción con herencia, polimorfismo, persistencia y manejo de excepciones.
