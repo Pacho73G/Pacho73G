@@ -56,6 +56,9 @@ Sistema completo en Java que simula la gestión de un centro de adopción con he
 ### 📊 [Análisis de Accidentes de Tránsito en Colombia (2012–2022)](https://github.com/Pacho73G/AccidentesDeTransito)
 Exploración y visualización de datos reales usando Python, pandas y matplotlib para identificar patrones temporales en siniestros viales.
 
+### 🖥️ [Sistema de Publicación–Suscripción en C](https://github.com/Pacho73G/ProyectoSisop)  
+Proyecto desarrollado en C que simula un sistema de publicación–suscripción utilizando comunicación entre procesos con **pipes FIFO**. Los publicadores envían noticias sobre distintos temas, y los suscriptores reciben solo aquellas a las que están suscritos.  
+
 ---
 
 ## 📈 Estadísticas de GitHub
