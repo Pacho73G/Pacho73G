@@ -9,7 +9,7 @@ Además, soy un gran aficionado al fútbol ⚽
 
 - 💡 Apasionado por la programación orientada a objetos
 - 📊 Me gusta explorar datos y crear visualizaciones útiles
-- 👨‍💻 Siempre estoy buscando mejorar mis habilidades técnicas
+- 💻  Siempre estoy buscando mejorar mis habilidades técnicas
 - 📚 Actualmente estudiante en la Pontificia Universidad Javeriana
   
 ---
