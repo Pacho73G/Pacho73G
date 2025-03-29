@@ -64,9 +64,9 @@ Proyecto desarrollado en C que simula un sistema de publicación–suscripción 
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=aura&hide_border=false&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=aura&cache_seconds=60&hide_border=false&border_radius=10" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=aura&hide_border=false&border_radius=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=aura&cache_seconds=60&hide_border=false&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
