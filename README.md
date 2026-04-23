@@ -1,84 +1,141 @@
-# 👋 ¡Hola! Soy Francisco Guzmán
-
-Soy estudiante de ingeniería de sistemas en Colombia. Me apasiona la resolución de problemas, el desarrollo de proyectos con propósito y me encanta aprender haciendo. Disfruto trabajar con código que tenga un impacto real, desde simuladores en Java hasta análisis de datos con Python.  
-Además, soy un gran aficionado al fútbol ⚽ 
-
----
-
-## 🚀 Sobre mí
-
-- 💡 Apasionado por la programación orientada a objetos
-- 📊 Me gusta explorar datos y crear visualizaciones útiles
-- 💻  Siempre estoy buscando mejorar mis habilidades técnicas
-- 📚 Actualmente estudiante en la Pontificia Universidad Javeriana
-  
----
-
-## 🏅 Insignias digitales
-
-Cuento con una insignia digital otorgada por IBM a través de la plataforma Credly.  
-🔗 [Ver en mi perfil de Credly](https://www.credly.com/users/francisco-guzman.827be69c)
-
-
-## 🧠 Tecnologías que uso
-
-### Lenguajes de Programación
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
-</div>
-
----
-
-## 🛠️ Herramientas y tecnologías
-
-- 💻 IDEs: Dev C++, IntelliJ IDEA, Eclipse, VS Code
-- 🎨 UI: Scene Builder para JavaFX
-- 📁 Git & GitHub para control de versiones
-- 🔢 Programación modular y estructurada
-- 📂 Manejo de archivos y persistencia de datos
-- ☕ Java con POO, excepciones y estructuras de datos
-- 🐍 Python para análisis, visualización y automatización
-
----
-
-## 📂 Proyectos destacados
-
-### 🧊 [Sistema de Procesamiento de Mallas 3D en C++](https://github.com/Pacho73G/Sistema-de-Procesamiento-de-Mallas-3D-en-C-)
-Proyecto realizado en C++ para cargar, analizar y procesar mallas poligonales en 3D usando estructuras avanzadas como árboles KD y grafos.  
-
-### 🐾 [Simulador de Centro de Adopción de Mascotas](https://github.com/Pacho73G/Simulador-de-Centro-de-Adopcion-de-Mascotas)
-Sistema completo en Java que simula la gestión de un centro de adopción con herencia, polimorfismo, persistencia y manejo de excepciones.
-
-### 📊 [Análisis de Accidentes de Tránsito en Colombia (2012–2022)](https://github.com/Pacho73G/AccidentesDeTransito)
-Exploración y visualización de datos reales usando Python, pandas y matplotlib para identificar patrones temporales en siniestros viales.
-
-### 🖥️ [Sistema de Publicación–Suscripción en C](https://github.com/Pacho73G/ProyectoSisop)  
-Proyecto desarrollado en C que simula un sistema de publicación–suscripción utilizando comunicación entre procesos con **pipes FIFO**. Los publicadores envían noticias sobre distintos temas, y los suscriptores reciben solo aquellas a las que están suscritos.  
-
----
-
-## 📈 Estadísticas de GitHub
+# 👋 ¡Hola! Soy Francisco Guzmán  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=aura&cache_seconds=60&hide_border=false&border_radius=10" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=aura&cache_seconds=60&hide_border=false&border_radius=10" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;Software+Engineer+in+Progress;Building+cool+things+🚀&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 📫 ¡Conectemos!
+## 🚀 Sobre mí  
 
-- 📧 franciscoguzmanv11@gmail.com  
-- 🐙 [GitHub](https://github.com/Pacho73G)
+💻 Estudiante de Ingeniería de Sistemas en Colombia  
+🔥 Apasionado por crear soluciones tecnológicas con impacto real  
+🤖 Enfocado en Inteligencia Artificial, Full Stack y software moderno  
+⚽ Amante del fútbol  
 
 ---
 
-## ✨ Frase que me inspira
+## 🧠 Tech Stack  
 
-> _“When something is important enough, you do it even if the odds are not in your favor.”_  
-> — **Elon Musk**
+### 👨‍💻 Lenguajes  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/>
+</p>
+
+---
+
+### 🌐 Frontend  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+</p>
+
+---
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+</p>
+
+---
+
+### 📱 Mobile  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
+</p>
+
+---
+
+### 🗄️ Bases de Datos  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+</p>
+
+---
+
+### 🛠️ Herramientas  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50"/>
+</p>
+
+---
+
+## 🤖 En qué estoy enfocado  
+
+- 🚀 Desarrollo Full Stack (React + Spring Boot + DB)  
+- 🤖 Inteligencia Artificial y automatización  
+- 📱 Apps móviles con Flutter  
+- ⚙️ Sistemas completos y escalables  
+
+---
+
+## 📂 Proyectos Destacados  
+
+### 🧊 [Sistema de Procesamiento de Mallas 3D](https://github.com/Pacho73G/Sistema-de-Procesamiento-de-Mallas-3D-en-C-)  
+C++ | Grafos | KD-Trees | Estructuras avanzadas  
+
+---
+
+### 🐾 [Simulador de Centro de Adopción](https://github.com/Pacho73G/Simulador-de-Centro-de-Adopcion-de-Mascotas)  
+Java | POO | Persistencia | Excepciones  
+
+---
+
+### 📊 [Análisis de Accidentes en Colombia](https://github.com/Pacho73G/AccidentesDeTransito)  
+Python | Pandas | Visualización  
+
+---
+
+### 🖥️ [Sistema Publisher–Subscriber](https://github.com/Pacho73G/ProyectoSisop)  
+C | Pipes FIFO | Sistemas Operativos  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Actividad  
+
+<p align="center">
+  <img src="https://github.com/Pacho73G/Pacho73G/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📫 Conecta conmigo  
+
+<p align="center">
+  <a href="mailto:franciscoguzmanv11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pacho73G">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨  
+
+<p align="center">
+  <b>🚀 Building, learning and evolving every day</b>
+</p>
