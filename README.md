@@ -113,14 +113,6 @@ C | Pipes FIFO | Sistemas Operativos
 
 ---
 
-## 🐍 Actividad  
-
-<p align="center">
-  <img src="https://github.com/Pacho73G/Pacho73G/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📫 Conecta conmigo  
 
 <p align="center">
