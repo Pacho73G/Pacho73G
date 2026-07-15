@@ -137,7 +137,6 @@
 ---
 
 ## 🌐 Proyecto universitario de desarrollo web
-## 🌐 Proyecto universitario de desarrollo web
 
 <table>
 <tr>
