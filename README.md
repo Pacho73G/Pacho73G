@@ -109,43 +109,81 @@ Python | Pandas | Visualización de Datos
 C | Pipes FIFO | Sistemas Operativos
 
 ---
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Pacho73G&theme=tokyonight&hide_border=true&border_radius=12&locale=es&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00E7FF&fire=FF4ECD&currStreakLabel=00E7FF&sideLabels=FFFFFF&dates=8B949E"
-    alt="Racha de contribuciones de Francisco"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pacho73G&theme=tokyonight"
+    alt="Resumen del perfil de Francisco"
   />
 </p>
 
 <p align="center">
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pacho73G&bg_color=0D1117&color=00E7FF&line=FF4ECD&point=FFFFFF&area=true&hide_border=true&radius=12"
-    alt="Gráfico de actividad de Francisco"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pacho73G&theme=tokyonight"
+    alt="Lenguajes por repositorio"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pacho73G&theme=tokyonight"
+    alt="Lenguajes por commits"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pacho73G&theme=tokyonight"
+    alt="Estadísticas generales"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pacho73G&theme=tokyonight&utcOffset=-5"
+    alt="Horas más productivas"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Pacho73G&locale=es&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=22D3EE&sideNums=A78BFA&dates=94A3B8"
+    alt="Racha de contribuciones"
   />
 </p>
 
 ---
 
-## 🐍 Mi actividad
+## ⚡ Tecnologías que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,kotlin,react,spring,flutter,androidstudio,postgres,mysql,git,github,vscode,idea,eclipse&perline=9&theme=dark" />
+</p>
+
+---
+
+## 👾 Mis contribuciones en movimiento
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/pacman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/pacman-contribution-graph.svg"
     />
     <img
-      alt="Animación de contribuciones de GitHub"
-      src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake.svg"
+      alt="Pac-Man recorriendo las contribuciones de Francisco"
+      src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/pacman-contribution-graph.svg"
     />
   </picture>
+</p>
+
+<p align="center">
+  <b>👻 Pac-Man recorriendo mi historial de contribuciones</b>
 </p>
 
 ## 📫 Conecta conmigo  
