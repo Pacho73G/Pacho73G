@@ -10,23 +10,16 @@
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
-```javascript
-const francisco = {
-  ubicacion: "Colombia 🇨🇴",
-  profesion: "Estudiante de Ingeniería de Sistemas",
-  enfoque: ["Full Stack","Inteligencia Artificial","Automatización"],
-  stack: ["React","Spring Boot","PostgreSQL"],
-  objetivo: "Construir soluciones tecnológicas con impacto real"
-}
-```
-
-- 💻 Desarrollo aplicaciones web, móviles y APIs REST.
-- 🤖 Interesado en IA, automatización y software moderno.
-- 📚 Aprendizaje continuo y pasión por resolver problemas.
-
----
+| 👨‍💻 | Información |
+|------|-------------|
+| 🎓 | Estudiante de Ingeniería de Sistemas |
+| 🌎 | Colombia 🇨🇴 |
+| 💻 | Full Stack Developer |
+| 🤖 | Inteligencia Artificial y Automatización |
+| ⚛️ | React • Spring Boot • PostgreSQL |
+| 🚀 | Construyendo soluciones con impacto real |
 
 # 🧠 Tecnologías
 
