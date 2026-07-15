@@ -136,6 +136,51 @@
 
 ---
 
+## 🌐 Proyecto universitario de desarrollo web
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h3>
+        🎨
+        <a href="https://caminosdepazupzlaflora.github.io/upz-la-flora/">
+          Caminos para la Paz y Memoria – UPZ La Flora
+        </a>
+      </h3>
+
+      <p>
+        Proyecto realizado durante la materia
+        <strong>Proyecto Social Universitario</strong>
+        de la Pontificia Universidad Javeriana.
+      </p>
+
+      <p>
+        Participé junto con otros estudiantes en el desarrollo de una página web
+        estática para presentar los murales visitados en la UPZ La Flora y parte
+        de su contexto cultural y comunitario.
+      </p>
+
+      <p><strong>Mi participación:</strong></p>
+
+      <ul>
+        <li>Desarrollo y ajustes de la página utilizando HTML y CSS.</li>
+        <li>Organización del contenido visual y textual.</li>
+        <li>Ajustes de diseño y presentación.</li>
+        <li>Trabajo colaborativo con otros estudiantes.</li>
+        <li>Visita y documentación de los murales de la comunidad.</li>
+      </ul>
+
+      <p>
+        <a href="https://caminosdepazupzlaflora.github.io/upz-la-flora/">
+          <strong>Visitar sitio web →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📂 Otros proyectos destacados
 
 <table>
