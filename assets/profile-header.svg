@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Francisco Guzmán — Desarrollador Full Stack</title>
+  <desc id="desc">Banner profesional animado en tonos oscuros, cian, violeta y magenta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.48" stop-color="#0D1326"/>
+      <stop offset="1" stop-color="#15102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#22D3EE" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="26" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="327" rx="24.5" fill="none" stroke="url(#accent)" stroke-opacity="0.72" stroke-width="3"/>
+
+  <g opacity="0.34" filter="url(#glow)">
+    <circle cx="104" cy="82" r="62" fill="#22D3EE">
+      <animate attributeName="r" values="52;68;52" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.35;0.18" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="240" r="74" fill="#EC4899">
+      <animate attributeName="r" values="66;82;66" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.32;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="JetBrains Mono, Segoe UI, Arial, sans-serif">
+    <text x="70" y="78" fill="#22D3EE" font-size="22" font-weight="700" letter-spacing="3">&lt; INGENIERO DE SOFTWARE EN FORMACIÓN /&gt;</text>
+    <text x="70" y="152" fill="#F8FAFC" font-size="56" font-weight="800">Francisco Guzmán</text>
+    <rect x="70" y="177" width="660" height="5" rx="2.5" fill="url(#accent)">
+      <animate attributeName="width" values="280;660;280" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="70" y="224" fill="#CBD5E1" font-size="25" font-weight="600">Full Stack · Inteligencia Artificial · Automatización</text>
+    <text x="70" y="270" fill="#94A3B8" font-size="19">React + Spring Boot + PostgreSQL · Bogotá, Colombia</text>
+  </g>
+
+  <g transform="translate(900 42)" font-family="JetBrains Mono, monospace" filter="url(#glow)">
+    <path d="M0 58L50 10L100 58" fill="none" stroke="#22D3EE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M130 10L80 58L130 106" fill="none" stroke="#EC4899" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="10" r="7" fill="#A78BFA">
+      <animateTransform attributeName="transform" type="translate" values="0 0;18 0;0 0" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="100" cy="58" r="7" fill="#22D3EE">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 20;0 0" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="4" y="145" width="216" height="78" rx="14" fill="#0D1117" stroke="#7C3AED" stroke-opacity="0.8"/>
+    <text x="24" y="178" fill="#94A3B8" font-size="15">status:</text>
+    <text x="24" y="207" fill="#22D3EE" font-size="19" font-weight="700">building ideas...</text>
+    <circle cx="194" cy="197" r="6" fill="#22D3EE">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer animado del perfil">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="24" fill="#0D1117"/>
+  <path d="M0 72C160 18 310 116 480 62S805 20 1200 78V120H0Z" fill="url(#f)" opacity="0.28">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 72C160 18 310 116 480 62S805 20 1200 78V120H0Z;M0 76C180 120 320 20 500 72S850 118 1200 56V120H0Z;M0 72C160 18 310 116 480 62S805 20 1200 78V120H0Z"/>
+  </path>
+  <text x="600" y="52" text-anchor="middle" fill="#F8FAFC" font-family="JetBrains Mono, Segoe UI, sans-serif" font-size="21" font-weight="800">Construyendo · Aprendiendo · Evolucionando</text>
+  <text x="600" y="84" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, sans-serif" font-size="15">Gracias por visitar mi perfil</text>
+</svg>
