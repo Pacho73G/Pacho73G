@@ -83,6 +83,13 @@
 
 ## 📂 Proyectos Destacados  
 
+### 🛡️ [Sistema de Vigilancia Docente](https://github.com/Pacho73G/ProyectoWeb)
+React | Spring Boot | PostgreSQL | API REST | Full Stack
+
+Aplicación web para la supervisión operativa de docentes, con gestión de turnos, incidentes, recorridos, limpiezas, notificaciones y control de acceso por roles.
+
+---
+
 ### 🧊 [Sistema de Procesamiento de Mallas 3D](https://github.com/Pacho73G/Sistema-de-Procesamiento-de-Mallas-3D-en-C-)  
 C++ | Grafos | KD-Trees | Estructuras avanzadas  
 
@@ -94,29 +101,57 @@ Java | POO | Persistencia | Excepciones
 ---
 
 ### 📊 [Análisis de Accidentes en Colombia](https://github.com/Pacho73G/AccidentesDeTransito)  
-Python | Pandas | Visualización  
+Python | Pandas | Visualización de Datos  
 
 ---
 
 ### 🖥️ [Sistema Publisher–Subscriber](https://github.com/Pacho73G/ProyectoSisop)  
-C | Pipes FIFO | Sistemas Operativos  
+C | Pipes FIFO | Sistemas Operativos
 
 ---
-
-## 📈 GitHub Stats  
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacho73G&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacho73G&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Pacho73G&theme=tokyonight&hide_border=true&border_radius=12&locale=es&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00E7FF&fire=FF4ECD&currStreakLabel=00E7FF&sideLabels=FFFFFF&dates=8B949E"
+    alt="Racha de contribuciones de Francisco"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pacho73G&bg_color=0D1117&color=00E7FF&line=FF4ECD&point=FFFFFF&area=true&hide_border=true&radius=12"
+    alt="Gráfico de actividad de Francisco"
+  />
 </p>
 
 ---
 
+## 🐍 Mi actividad
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animación de contribuciones de GitHub"
+      src="https://raw.githubusercontent.com/Pacho73G/Pacho73G/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
 ## 📫 Conecta conmigo  
 
 <p align="center">
-  <a href="mailto:franciscoguzmanv11@gmail.com">
+  <a href="mailto:francis.coguzmanv7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Pacho73G">
